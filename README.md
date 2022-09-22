@@ -3,4 +3,4 @@
 
 
 ## - Using Mapbox to build an interactive map dashboard.
-![image](https://user-images.githubusercontent.com/32219409/191815939-a4d62606-e0d8-46f3-88b3-1343181f459a.png)
+![image](https://user-images.githubusercontent.com/32219409/191816334-29fe2c9b-4216-4a08-884a-e70e8d30f01c.png)
